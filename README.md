@@ -2,7 +2,9 @@
 
 Inspired by Framer's 2017 syntax colors. See [framerjs-syntax](https://atom.io/themes/framerjs-syntax) for the old Framer.js colors.
 
-[insert screenshot here]
+![](http://i.imgur.com/sp4mtx0.png)
+
+>The font used in the screenshot is [Fira Code](https://github.com/tonsky/FiraCode).
 
 ## Install
 
