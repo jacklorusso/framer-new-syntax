@@ -1,5 +1,7 @@
 # framer-new-syntax
 
+[![apm](https://img.shields.io/apm/dm/framer-new-syntax.svg?style=flat)](https://atom.io/packages/framer-new-syntax)
+
 Inspired by Framer's 2017 syntax colors. See [framerjs-syntax](https://atom.io/themes/framerjs-syntax) for the old Framer.js colors.
 
 ![](http://i.imgur.com/sp4mtx0.png)
